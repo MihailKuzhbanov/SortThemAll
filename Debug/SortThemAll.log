@@ -1,0 +1,3 @@
+﻿  SortThemAll.cpp
+d:\cppprojects\sortthemall\sortthemall\sortthemall.cpp(42): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SortThemAll.vcxproj -> D:\CppProjects\SortThemAll\Debug\SortThemAll.exe
